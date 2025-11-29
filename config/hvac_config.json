@@ -1,0 +1,17 @@
+{
+  "AHU": {
+    "1": {"status": "OFF"},
+    "2": {"status": "OFF"},
+    "3": {"status": "OFF"},
+    "4": {"status": "OFF"}
+  },
+  "PAHU": {
+    "1": {"status": "OFF"},
+    "2": {"status": "OFF"}
+  },
+  "TFA": {
+    "1": {"status": "OFF"},
+    "2": {"status": "OFF"},
+    "3": {"status": "OFF"}
+  }
+}
